@@ -8,8 +8,8 @@ Davis Sauer
 ![Me!]("Headshot 2022.jpg")
 
 **Stats** 
-| -------- | -------- | -------- |
 | Age | Weight | Height |
+| --- | --- | --- |
 | 11329920 minutes | 76.5 ducks | 1.933*10^-16 lightyears |
 
 :bread: is :hearts:
