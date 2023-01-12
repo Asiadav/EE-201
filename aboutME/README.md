@@ -14,7 +14,7 @@ Davis Sauer
 
 :bread: is :hearts:
 
-Check out my [linkedin](https://www.youtube.com/watch?v=dQw4w9WgXcQ)!
+Check out my [linkedin](https://www.youtube.com/watch?v=a3Z7zEc7AXQ)!
 
 
 
