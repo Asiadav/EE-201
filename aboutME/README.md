@@ -5,7 +5,7 @@ Davis Sauer
  : I am a gamer
 `but I also like to hike`
 
-![Me!]("Headshot 2022.jpg")
+![Me!](https://github.com/Asiadav/EE-201/blob/aboutME/aboutME/Headshot%202022.jpg)
 
 **Stats** 
 | Age | Weight | Height |
