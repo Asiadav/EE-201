@@ -1,2 +1,2 @@
-# EE-201
-Repo for all projects completed within the EE 201 class
+# Arduometer Pictures
+RHere's a couple picture of the Arduometer measuring voltage and current
